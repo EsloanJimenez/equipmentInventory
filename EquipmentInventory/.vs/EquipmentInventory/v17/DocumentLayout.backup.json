@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|solutionrelative:equipmentinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\repository\\equipmentmaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\repository\\equipmentmaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\repository\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\repository\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\repository\\equipmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\repository\\equipmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\repository\\maintenancetaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\repository\\maintenancetaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\service\\maintenancetaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\service\\maintenancetaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\service\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\service\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\service\\equipmentmaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\service\\equipmentmaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.api\\controllers\\maintenancetaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|solutionrelative:equipmentinventory.api\\controllers\\maintenancetaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\configuration\\maintenancetaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\configuration\\maintenancetaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\configuration\\equipmenttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\configuration\\equipmenttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\configuration\\equipmentmaintenanceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\configuration\\equipmentmaintenanceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\configuration\\equipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\configuration\\equipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.api\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|solutionrelative:equipmentinventory.api\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\dto\\maintenancetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\dto\\maintenancetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\entity\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\entity\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.api\\controllers\\equipmentmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F13B49-E786-4DCD-9995-FDF83B1FA03D}|EquipmentInventory.API\\EquipmentInventory.API.csproj|solutionrelative:equipmentinventory.api\\controllers\\equipmentmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\entity\\equipmentmaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\entity\\equipmentmaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\interface\\repository\\iequipmentmaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\interface\\repository\\iequipmentmaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\interface\\service\\iequipmentmaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\interface\\service\\iequipmentmaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.domain\\entity\\maintenancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F95B12-8196-473C-9440-8A3FF54B12E4}|EquipmentInventory.Domain\\EquipmentInventory.Domain.csproj|solutionrelative:equipmentinventory.domain\\entity\\maintenancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|e:\\proyectos\\equipmentinventoryfull\\equipmentinventory\\equipmentinventory.infrastructure\\context\\equipmentinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1DE54-4466-4CA8-8829-6C655B83658A}|EquipmentInventory.Infrastructure\\EquipmentInventory.Infrastructure.csproj|solutionrelative:equipmentinventory.infrastructure\\context\\equipmentinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1004,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaintenanceTaskController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\MaintenanceTaskController.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.API\\Controllers\\MaintenanceTaskController.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\MaintenanceTaskController.cs",
+              "RelativeToolTip": "EquipmentInventory.API\\Controllers\\MaintenanceTaskController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:32:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipmentService.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\EquipmentService.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Service\\EquipmentService.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\EquipmentService.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Service\\EquipmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:29:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipmentTypeRepository.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Repository\\EquipmentTypeRepository.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentTypeRepository.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Repository\\EquipmentTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:13:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Repository\\EquipmentRepository.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentRepository.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Repository\\EquipmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:10:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.API\\Program.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Program.cs",
+              "RelativeToolTip": "EquipmentInventory.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:00:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipmentTypeConfiguration.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentTypeConfiguration.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentTypeConfiguration.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:42:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipmentConfiguration.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentConfiguration.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentConfiguration.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentConfiguration.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:12:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaintenanceTaskConfiguration.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\MaintenanceTaskConfiguration.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Configuration\\MaintenanceTaskConfiguration.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\MaintenanceTaskConfiguration.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Configuration\\MaintenanceTaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:41:12.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EquipmentMaintenanceConfiguration.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentMaintenanceConfiguration.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentMaintenanceConfiguration.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Configuration\\EquipmentMaintenanceConfiguration.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Configuration\\EquipmentMaintenanceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:06:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquipmentController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\EquipmentController.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.API\\Controllers\\EquipmentController.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\EquipmentController.cs",
+              "RelativeToolTip": "EquipmentInventory.API\\Controllers\\EquipmentController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAWwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:28:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\Equipment.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\Entity\\Equipment.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\Equipment.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\Entity\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:13:22.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquipmentMaintenance.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\EquipmentMaintenance.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\Entity\\EquipmentMaintenance.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\EquipmentMaintenance.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\Entity\\EquipmentMaintenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:04:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEquipmentMaintenanceRepository.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Interface\\Repository\\IEquipmentMaintenanceRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\Interface\\Repository\\IEquipmentMaintenanceRepository.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Interface\\Repository\\IEquipmentMaintenanceRepository.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\Interface\\Repository\\IEquipmentMaintenanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:42:18.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEquipmentMaintenanceService.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Interface\\Service\\IEquipmentMaintenanceService.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\Interface\\Service\\IEquipmentMaintenanceService.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Interface\\Service\\IEquipmentMaintenanceService.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\Interface\\Service\\IEquipmentMaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:33:58.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MaintenanceTask.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\MaintenanceTask.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\Entity\\MaintenanceTask.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\Entity\\MaintenanceTask.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\Entity\\MaintenanceTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:15:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EquipmentInventoryContext.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Context\\EquipmentInventoryContext.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Context\\EquipmentInventoryContext.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Context\\EquipmentInventoryContext.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Context\\EquipmentInventoryContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:14:01.017Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1162,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipmentMaintenanceService.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\EquipmentMaintenanceService.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Service\\EquipmentMaintenanceService.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\EquipmentMaintenanceService.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Service\\EquipmentMaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:49:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquipmentMaintenanceRepository.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentMaintenanceRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Repository\\EquipmentMaintenanceRepository.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\EquipmentMaintenanceRepository.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Repository\\EquipmentMaintenanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:12:16.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaintenanceTaskRepository.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\MaintenanceTaskRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Repository\\MaintenanceTaskRepository.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Repository\\MaintenanceTaskRepository.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Repository\\MaintenanceTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:18:36.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaintenanceTaskDTO.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\DTO\\MaintenanceTaskDTO.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Domain\\DTO\\MaintenanceTaskDTO.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Domain\\DTO\\MaintenanceTaskDTO.cs",
+              "RelativeToolTip": "EquipmentInventory.Domain\\DTO\\MaintenanceTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:20:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EquipmentMaintenanceController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\EquipmentMaintenanceController.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.API\\Controllers\\EquipmentMaintenanceController.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.API\\Controllers\\EquipmentMaintenanceController.cs",
+              "RelativeToolTip": "EquipmentInventory.API\\Controllers\\EquipmentMaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:39:28.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e0be7ebe-31c2-4f44-b51d-4992cdf506c0",
+        "Display": 0,
+        "X": 358,
+        "Y": 184,
+        "Width": 1288,
+        "Height": 1408,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaintenanceTaskService.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\MaintenanceTaskService.cs",
+              "RelativeDocumentMoniker": "EquipmentInventory.Infrastructure\\Service\\MaintenanceTaskService.cs",
+              "ToolTip": "E:\\Proyectos\\EquipmentInventoryFull\\EquipmentInventory\\EquipmentInventory.Infrastructure\\Service\\MaintenanceTaskService.cs",
+              "RelativeToolTip": "EquipmentInventory.Infrastructure\\Service\\MaintenanceTaskService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:59:26.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.container {
+   max-width: 80%;
+ }
+ #table-header {
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-around;
+  }
+  h2 {
+    align-self: flex-start;
+    color: #4e7d4e;
+  }
+  
+  #table-header .form {
+    width: 30%;
+    height: 40px;
+   }
+ .table {
+   border-radius: 8px;
+   overflow: hidden;
+ }
+ .btn-add {
+   width: 40px;
+   height: 40px;
+   padding: 0;
+   margin: 0;
+   font-weight: bold;
+   font-size: x-large;
+ }
+ .btn-action {
+   display: flex;
+ }
+ 

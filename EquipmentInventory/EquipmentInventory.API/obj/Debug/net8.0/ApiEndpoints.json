@@ -1,0 +1,280 @@
+[
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentController",
+    "Method": "Get",
+    "RelativePath": "api/Equipment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentController",
+    "Method": "Post",
+    "RelativePath": "api/Equipment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentController",
+    "Method": "Get",
+    "RelativePath": "api/Equipment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentController",
+    "Method": "Put",
+    "RelativePath": "api/Equipment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentController",
+    "Method": "Remove",
+    "RelativePath": "api/Equipment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "Get",
+    "RelativePath": "api/EquipmentMaintenance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "Post",
+    "RelativePath": "api/EquipmentMaintenance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentMaintenanceDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentMaintenanceDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "Get",
+    "RelativePath": "api/EquipmentMaintenance/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "Put",
+    "RelativePath": "api/EquipmentMaintenance/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentMaintenanceDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentMaintenanceDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "Remove",
+    "RelativePath": "api/EquipmentMaintenance/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipmentMaintenanceDTO",
+        "Type": "EquipmentInventory.Domain.DTO.EquipmentMaintenanceDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentMaintenanceController",
+    "Method": "GetEquipments",
+    "RelativePath": "api/EquipmentMaintenance/task/{taskId}/equipments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.EquipmentTypeController",
+    "Method": "Get",
+    "RelativePath": "api/EquipmentType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.MaintenanceTaskController",
+    "Method": "Get",
+    "RelativePath": "api/MaintenanceTask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.MaintenanceTaskController",
+    "Method": "Post",
+    "RelativePath": "api/MaintenanceTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maintenanceTaskDTO",
+        "Type": "EquipmentInventory.Domain.DTO.MaintenanceTaskDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.MaintenanceTaskController",
+    "Method": "Get",
+    "RelativePath": "api/MaintenanceTask/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.MaintenanceTaskController",
+    "Method": "Put",
+    "RelativePath": "api/MaintenanceTask/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maintenanceTaskDTO",
+        "Type": "EquipmentInventory.Domain.DTO.MaintenanceTaskDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EquipmentInventory.API.Controllers.MaintenanceTaskController",
+    "Method": "Remove",
+    "RelativePath": "api/MaintenanceTask/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maintenanceTaskDTO",
+        "Type": "EquipmentInventory.Domain.DTO.MaintenanceTaskDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
