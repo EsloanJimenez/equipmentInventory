@@ -2,7 +2,7 @@
 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 
-* **.NET SDK 6.0 o superior**: [Descargar .NET SDK](https://dotnet.microsoft.com/download)
+* **.NET SDK 8.0 o superior**: [Descargar .NET SDK](https://dotnet.microsoft.com/download)
 * **Node.js y npm**: [Descargar Node.js](https://nodejs.org/)
 * **SQL Server Management Studio (SSMS)**: [Descargar SSMS](https://aka.ms/ssms)
 
